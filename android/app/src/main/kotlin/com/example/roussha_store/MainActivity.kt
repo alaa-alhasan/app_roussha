@@ -1,4 +1,4 @@
-package emaarco.roussha.roussha_store
+package com.roussha.rousshaStore
 
 import io.flutter.embedding.android.FlutterActivity
 
